@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MigueGaldamez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MigueGaldamez/MigueGaldamez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola, Soy Miguel Galdamez
+- 👀 Me interesa mucho el desarrollo de software
+- 🌱 La mayor parte de mi tiempo me encuentro buscando nuevas tecnologias para mejorar mis proyectos
+- 💞️ Estoy buscando colaborar en grandes proyectos
+- 📫 Pueden contactarme en: migue.galdamez@hotmail.com
